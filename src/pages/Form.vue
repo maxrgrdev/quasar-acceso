@@ -1,6 +1,6 @@
 <template>
     <div>
-        Frmulario de notas
+        Formulario de notas
     </div>
 </template>
 <script>
