@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.netlify.quasar_acceso.twa",
+                     "sha256_cert_fingerprints": ["05:7E:DE:AC:BA:BA:9B:CC:39:E2:4E:C1:FE:F9:59:24:0E:4C:F2:9E:E1:2B:A4:EA:6B:26:BE:58:C1:38:B3:3B"] }
+      }
+]
